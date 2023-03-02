@@ -10,9 +10,6 @@ I'm a 18 years old developer and hacking since I was 17. I love to code and figu
 * ✉️  You can contact me at [antony3ferro@gmail.com](antony3ferro@gmail.com)
 * ⚡  I love sports and my favorite is Soccer
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
